@@ -1,7 +1,6 @@
 {
     "name": "giampaolo/laravel-fb-ads",
     "description": "laravel-fb-ads is a minimalistic integration of Facebook Ads PHP SDK to help you advertise your products as easy as possible.",
-    "type": "help",
     "license": "GPL-3.0",
     "authors": [
         {
